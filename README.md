@@ -13,14 +13,16 @@ become proficient in Haskell. Create a summary of best practices,
 tools and configurations that have worked for me
 
 #### main focus
-- useful ghc features (flags)
-- applications architecture
+- language capabilities overview
 - containerized development environment
-- scalable deployments (cluser managment)
+    * build tools
+    * package managment
+    * editor integrations
+- deployment - cluser managment
 - integrations with 3d party service providers 
   (AWS, Authentication services)
   
 credits
 =======
-getting clean
+getting clean, one day at a time.
 
